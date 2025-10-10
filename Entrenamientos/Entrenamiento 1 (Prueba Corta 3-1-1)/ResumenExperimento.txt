@@ -1,0 +1,50 @@
+============================================================
+--- RESUMEN FINAL DEL EXPERIMENTO ---
+============================================================
+
+Baseline mAP50-95 (Default): 0.0758
+------------------------------
+
+Algoritmo: PSO
+  - Mejor mAP50-95: 0.0290
+  - Mejora sobre Baseline: -61.69%
+  - Mejor Configuración:
+    lr0: 0.005724
+    momentum: 0.970328
+    weight_decay: 0.000072
+    hsv_s: 0.060991
+    scale: 0.020218
+    translate: 0.166524
+
+Algoritmo: WOA
+  - Mejor mAP50-95: 0.0403
+  - Mejora sobre Baseline: -46.82%
+  - Mejor Configuración:
+    lr0: 0.003223
+    momentum: 0.897282
+    weight_decay: 0.000571
+    hsv_s: 0.307021
+    scale: 0.988374
+    translate: 0.020409
+
+Algoritmo: GWO
+  - Mejor mAP50-95: 0.0290
+  - Mejora sobre Baseline: -61.69%
+  - Mejor Configuración:
+    lr0: 0.005724
+    momentum: 0.970328
+    weight_decay: 0.000072
+    hsv_s: 0.060991
+    scale: 0.020218
+    translate: 0.166524
+
+Algoritmo: FA
+  - Mejor mAP50-95: 0.0452
+  - Mejora sobre Baseline: -40.32%
+  - Mejor Configuración:
+    lr0: 0.002309
+    momentum: 0.973857
+    weight_decay: 0.000448
+    hsv_s: 0.592486
+    scale: 0.699479
+    translate: 0.059487
