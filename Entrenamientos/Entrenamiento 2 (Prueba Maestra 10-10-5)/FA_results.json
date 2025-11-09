@@ -1,0 +1,1302 @@
+[
+    {
+        "iter": 0,
+        "particle": 0,
+        "fitness": 0.1522670911227229,
+        "cfg": {
+            "lr0": 0.0019525958283333632,
+            "momentum": 0.9675179141406708,
+            "weight_decay": 0.0005442621441272491,
+            "hsv_s": 0.31983799515203604,
+            "scale": 0.8820414102298896,
+            "translate": 0.09172079235371718
+        }
+    },
+    {
+        "iter": 0,
+        "particle": 1,
+        "fitness": 0.14920349253907783,
+        "cfg": {
+            "lr0": 0.007269259602454279,
+            "momentum": 0.9018732918214032,
+            "weight_decay": 0.0009041403485080569,
+            "hsv_s": 0.4830175141338591,
+            "scale": 0.6996220542505167,
+            "translate": 0.06554408031142378
+        }
+    },
+    {
+        "iter": 0,
+        "particle": 2,
+        "fitness": 0.12345423943982561,
+        "cfg": {
+            "lr0": 0.007592108563095204,
+            "momentum": 0.9326879372081284,
+            "weight_decay": 0.00024078025310632985,
+            "hsv_s": 0.11237717573967948,
+            "scale": 0.7963914745173317,
+            "translate": 0.1918333206070445
+        }
+    },
+    {
+        "iter": 0,
+        "particle": 3,
+        "fitness": 0.1353506163968115,
+        "cfg": {
+            "lr0": 0.004635574389874425,
+            "momentum": 0.926827941492079,
+            "weight_decay": 0.0008578649215493612,
+            "hsv_s": 0.3200564173476999,
+            "scale": 0.9518744768327362,
+            "translate": 0.11515023240897448
+        }
+    },
+    {
+        "iter": 0,
+        "particle": 4,
+        "fitness": 0.11656642449435588,
+        "cfg": {
+            "lr0": 0.008225594494943018,
+            "momentum": 0.9681496833936559,
+            "weight_decay": 0.0008157082949498003,
+            "hsv_s": 0.11159012441426915,
+            "scale": 0.6288984390617004,
+            "translate": 0.07968685172393541
+        }
+    },
+    {
+        "iter": 0,
+        "particle": 5,
+        "fitness": 0.165109939875615,
+        "cfg": {
+            "lr0": 0.0007208582250311225,
+            "momentum": 0.9051241927456795,
+            "weight_decay": 0.00025942538282251835,
+            "hsv_s": 0.5943268158999575,
+            "scale": 0.03330462654669619,
+            "translate": 0.19179654437269472
+        }
+    },
+    {
+        "iter": 0,
+        "particle": 6,
+        "fitness": 0.1593838207954449,
+        "cfg": {
+            "lr0": 0.0036181515998721034,
+            "momentum": 0.8963718957523306,
+            "weight_decay": 1.7312174181024184e-05,
+            "hsv_s": 0.12966262766532874,
+            "scale": 0.4012595008036087,
+            "translate": 0.18585828346054278
+        }
+    },
+    {
+        "iter": 0,
+        "particle": 7,
+        "fitness": 0.1506664954726769,
+        "cfg": {
+            "lr0": 0.0010861878091905862,
+            "momentum": 0.9728891993522804,
+            "weight_decay": 0.0008696190420160857,
+            "hsv_s": 0.31791367783528623,
+            "scale": 0.32670088176826007,
+            "translate": 0.046548825855811375
+        }
+    },
+    {
+        "iter": 0,
+        "particle": 8,
+        "fitness": 0.1554386842436285,
+        "cfg": {
+            "lr0": 0.006183200594121057,
+            "momentum": 0.8542996968918157,
+            "weight_decay": 1.659045838238139e-05,
+            "hsv_s": 0.30015700574876647,
+            "scale": 0.0680740739747202,
+            "translate": 0.050388197649218584
+        }
+    },
+    {
+        "iter": 0,
+        "particle": 9,
+        "fitness": 0.16286492427229224,
+        "cfg": {
+            "lr0": 0.00228949306192623,
+            "momentum": 0.8829148551839707,
+            "weight_decay": 0.0001319241759840425,
+            "hsv_s": 0.008425356028357988,
+            "scale": 0.11548429713874808,
+            "translate": 0.12369605190254958
+        }
+    },
+    {
+        "iter": 1,
+        "particle": 0,
+        "fitness": 0.1522670911227229,
+        "cfg": {
+            "lr0": 0.0019525958283333632,
+            "momentum": 0.9675179141406708,
+            "weight_decay": 0.0005442621441272491,
+            "hsv_s": 0.31983799515203604,
+            "scale": 0.8820414102298896,
+            "translate": 0.09172079235371718
+        }
+    },
+    {
+        "iter": 1,
+        "particle": 1,
+        "fitness": 0.08808828009397918,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 0.001,
+            "hsv_s": 0.7,
+            "scale": 1.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 1,
+        "particle": 2,
+        "fitness": 0.10219956568462056,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.9118342982615599,
+            "weight_decay": 0.001,
+            "hsv_s": 0.7,
+            "scale": 1.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 1,
+        "particle": 3,
+        "fitness": 0.11398975665524125,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.85,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 1.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 1,
+        "particle": 4,
+        "fitness": 0.10277820042636203,
+        "cfg": {
+            "lr0": 0.0001,
+            "momentum": 0.98,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 0.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 1,
+        "particle": 5,
+        "fitness": 0.10899820586630124,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 0.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 1,
+        "particle": 6,
+        "fitness": 0.11337141569963897,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 0.001,
+            "hsv_s": 0.7,
+            "scale": 0.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 1,
+        "particle": 7,
+        "fitness": 0.11684366934521626,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.7,
+            "scale": 0.0,
+            "translate": 0.09976734160427203
+        }
+    },
+    {
+        "iter": 1,
+        "particle": 8,
+        "fitness": 0.14975289289449972,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.85,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.09178583192214926,
+            "scale": 0.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 1,
+        "particle": 9,
+        "fitness": 0.10277820042636203,
+        "cfg": {
+            "lr0": 0.0001,
+            "momentum": 0.98,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 0.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 2,
+        "particle": 0,
+        "fitness": 0.1522670911227229,
+        "cfg": {
+            "lr0": 0.0019525958283333632,
+            "momentum": 0.9675179141406708,
+            "weight_decay": 0.0005442621441272491,
+            "hsv_s": 0.31983799515203604,
+            "scale": 0.8820414102298896,
+            "translate": 0.09172079235371718
+        }
+    },
+    {
+        "iter": 2,
+        "particle": 1,
+        "fitness": 0.08808828009397918,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 0.001,
+            "hsv_s": 0.7,
+            "scale": 1.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 2,
+        "particle": 2,
+        "fitness": 0.10380371750159194,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.85,
+            "weight_decay": 0.001,
+            "hsv_s": 0.5120452332466819,
+            "scale": 1.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 2,
+        "particle": 3,
+        "fitness": 0.11398975665524125,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.85,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 1.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 2,
+        "particle": 4,
+        "fitness": 0.10277820042636203,
+        "cfg": {
+            "lr0": 0.0001,
+            "momentum": 0.98,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 0.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 2,
+        "particle": 5,
+        "fitness": 0.1041559794541902,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.23846634016508084,
+            "scale": 0.4254504379599928,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 2,
+        "particle": 6,
+        "fitness": 0.08092237452152398,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 0.001,
+            "hsv_s": 0.7,
+            "scale": 1.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 2,
+        "particle": 7,
+        "fitness": 0.11292934929234341,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.7,
+            "scale": 0.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 2,
+        "particle": 8,
+        "fitness": 0.15295800207591886,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.85,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 0.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 2,
+        "particle": 9,
+        "fitness": 0.1041109457190652,
+        "cfg": {
+            "lr0": 0.0001,
+            "momentum": 0.98,
+            "weight_decay": 0.001,
+            "hsv_s": 0.0,
+            "scale": 0.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 3,
+        "particle": 0,
+        "fitness": 0.1522670911227229,
+        "cfg": {
+            "lr0": 0.0019525958283333632,
+            "momentum": 0.9675179141406708,
+            "weight_decay": 0.0005442621441272491,
+            "hsv_s": 0.31983799515203604,
+            "scale": 0.8820414102298896,
+            "translate": 0.09172079235371718
+        }
+    },
+    {
+        "iter": 3,
+        "particle": 1,
+        "fitness": 0.08808828009397918,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 0.001,
+            "hsv_s": 0.7,
+            "scale": 1.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 3,
+        "particle": 2,
+        "fitness": 0.1051119214249268,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.9371392704373407,
+            "weight_decay": 0.001,
+            "hsv_s": 0.7,
+            "scale": 1.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 3,
+        "particle": 3,
+        "fitness": 0.11398975665524125,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.85,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 1.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 3,
+        "particle": 4,
+        "fitness": 0.10461878158943476,
+        "cfg": {
+            "lr0": 0.0001,
+            "momentum": 0.98,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0007642352114636264,
+            "scale": 0.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 3,
+        "particle": 5,
+        "fitness": 0.08441224312014792,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.1507834389871596,
+            "scale": 1.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 3,
+        "particle": 6,
+        "fitness": 0.1035472180967234,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 0.001,
+            "hsv_s": 0.7,
+            "scale": 0.08233758932873447,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 3,
+        "particle": 7,
+        "fitness": 0.11292934929234341,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.7,
+            "scale": 0.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 3,
+        "particle": 8,
+        "fitness": 0.15295800207591886,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.85,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 0.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 3,
+        "particle": 9,
+        "fitness": 0.10277820042636203,
+        "cfg": {
+            "lr0": 0.0001,
+            "momentum": 0.98,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 0.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 4,
+        "particle": 0,
+        "fitness": 0.1522670911227229,
+        "cfg": {
+            "lr0": 0.0019525958283333632,
+            "momentum": 0.9675179141406708,
+            "weight_decay": 0.0005442621441272491,
+            "hsv_s": 0.31983799515203604,
+            "scale": 0.8820414102298896,
+            "translate": 0.09172079235371718
+        }
+    },
+    {
+        "iter": 4,
+        "particle": 1,
+        "fitness": 0.08808828009397918,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 0.001,
+            "hsv_s": 0.7,
+            "scale": 1.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 4,
+        "particle": 2,
+        "fitness": 0.08092237452152398,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 0.001,
+            "hsv_s": 0.7,
+            "scale": 1.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 4,
+        "particle": 3,
+        "fitness": 0.11398975665524125,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.85,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 1.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 4,
+        "particle": 4,
+        "fitness": 0.10277820042636203,
+        "cfg": {
+            "lr0": 0.0001,
+            "momentum": 0.98,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 0.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 4,
+        "particle": 5,
+        "fitness": 0.08926505397222392,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.025137883937515565,
+            "scale": 1.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 4,
+        "particle": 6,
+        "fitness": 0.08092237452152398,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 0.001,
+            "hsv_s": 0.7,
+            "scale": 1.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 4,
+        "particle": 7,
+        "fitness": 0.11292934929234341,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.7,
+            "scale": 0.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 4,
+        "particle": 8,
+        "fitness": 0.1533001178895721,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.85,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 0.0,
+            "translate": 0.03964227684740482
+        }
+    },
+    {
+        "iter": 4,
+        "particle": 9,
+        "fitness": 0.10277820042636203,
+        "cfg": {
+            "lr0": 0.0001,
+            "momentum": 0.98,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 0.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 5,
+        "particle": 0,
+        "fitness": 0.1522670911227229,
+        "cfg": {
+            "lr0": 0.0019525958283333632,
+            "momentum": 0.9675179141406708,
+            "weight_decay": 0.0005442621441272491,
+            "hsv_s": 0.31983799515203604,
+            "scale": 0.8820414102298896,
+            "translate": 0.09172079235371718
+        }
+    },
+    {
+        "iter": 5,
+        "particle": 1,
+        "fitness": 0.08808828009397918,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 0.001,
+            "hsv_s": 0.7,
+            "scale": 1.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 5,
+        "particle": 2,
+        "fitness": 0.08092237452152398,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 0.001,
+            "hsv_s": 0.7,
+            "scale": 1.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 5,
+        "particle": 3,
+        "fitness": 0.11398975665524125,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.85,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 1.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 5,
+        "particle": 4,
+        "fitness": 0.10606380016645045,
+        "cfg": {
+            "lr0": 0.0001,
+            "momentum": 0.98,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.517974159678797,
+            "scale": 0.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 5,
+        "particle": 5,
+        "fitness": 0.11370596064367625,
+        "cfg": {
+            "lr0": 0.0001,
+            "momentum": 0.85,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 1.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 5,
+        "particle": 6,
+        "fitness": 0.11337141569963897,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 0.001,
+            "hsv_s": 0.7,
+            "scale": 0.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 5,
+        "particle": 7,
+        "fitness": 0.1113351430867282,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.42608622874241653,
+            "scale": 0.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 5,
+        "particle": 8,
+        "fitness": 0.15295800207591886,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.85,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 0.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 5,
+        "particle": 9,
+        "fitness": 0.1041109457190652,
+        "cfg": {
+            "lr0": 0.0001,
+            "momentum": 0.98,
+            "weight_decay": 0.001,
+            "hsv_s": 0.0,
+            "scale": 0.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 6,
+        "particle": 0,
+        "fitness": 0.1522670911227229,
+        "cfg": {
+            "lr0": 0.0019525958283333632,
+            "momentum": 0.9675179141406708,
+            "weight_decay": 0.0005442621441272491,
+            "hsv_s": 0.31983799515203604,
+            "scale": 0.8820414102298896,
+            "translate": 0.09172079235371718
+        }
+    },
+    {
+        "iter": 6,
+        "particle": 1,
+        "fitness": 0.08808828009397918,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 0.001,
+            "hsv_s": 0.7,
+            "scale": 1.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 6,
+        "particle": 2,
+        "fitness": 0.08092237452152398,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 0.001,
+            "hsv_s": 0.7,
+            "scale": 1.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 6,
+        "particle": 3,
+        "fitness": 0.11398975665524125,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.85,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 1.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 6,
+        "particle": 4,
+        "fitness": 0.10277820042636203,
+        "cfg": {
+            "lr0": 0.0001,
+            "momentum": 0.98,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 0.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 6,
+        "particle": 5,
+        "fitness": 0.12660759489106393,
+        "cfg": {
+            "lr0": 0.00034022426267354966,
+            "momentum": 0.98,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 1.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 6,
+        "particle": 6,
+        "fitness": 0.08092237452152398,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 0.001,
+            "hsv_s": 0.7,
+            "scale": 1.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 6,
+        "particle": 7,
+        "fitness": 0.11292934929234341,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.7,
+            "scale": 0.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 6,
+        "particle": 8,
+        "fitness": 0.15295800207591886,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.85,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 0.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 6,
+        "particle": 9,
+        "fitness": 0.10277820042636203,
+        "cfg": {
+            "lr0": 0.0001,
+            "momentum": 0.98,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 0.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 7,
+        "particle": 0,
+        "fitness": 0.1522670911227229,
+        "cfg": {
+            "lr0": 0.0019525958283333632,
+            "momentum": 0.9675179141406708,
+            "weight_decay": 0.0005442621441272491,
+            "hsv_s": 0.31983799515203604,
+            "scale": 0.8820414102298896,
+            "translate": 0.09172079235371718
+        }
+    },
+    {
+        "iter": 7,
+        "particle": 1,
+        "fitness": 0.08808828009397918,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 0.001,
+            "hsv_s": 0.7,
+            "scale": 1.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 7,
+        "particle": 2,
+        "fitness": 0.10985582149658182,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.9071226001720701,
+            "weight_decay": 0.001,
+            "hsv_s": 0.7,
+            "scale": 1.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 7,
+        "particle": 3,
+        "fitness": 0.11398975665524125,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.85,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 1.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 7,
+        "particle": 4,
+        "fitness": 0.10277820042636203,
+        "cfg": {
+            "lr0": 0.0001,
+            "momentum": 0.98,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 0.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 7,
+        "particle": 5,
+        "fitness": 0.09146885711824922,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 1.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 7,
+        "particle": 6,
+        "fitness": 0.08092237452152398,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 0.001,
+            "hsv_s": 0.7,
+            "scale": 1.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 7,
+        "particle": 7,
+        "fitness": 0.10855929305383541,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.42502121905852935,
+            "scale": 0.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 7,
+        "particle": 8,
+        "fitness": 0.15295800207591886,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.85,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 0.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 7,
+        "particle": 9,
+        "fitness": 0.1041109457190652,
+        "cfg": {
+            "lr0": 0.0001,
+            "momentum": 0.98,
+            "weight_decay": 0.001,
+            "hsv_s": 0.0,
+            "scale": 0.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 8,
+        "particle": 0,
+        "fitness": 0.1522670911227229,
+        "cfg": {
+            "lr0": 0.0019525958283333632,
+            "momentum": 0.9675179141406708,
+            "weight_decay": 0.0005442621441272491,
+            "hsv_s": 0.31983799515203604,
+            "scale": 0.8820414102298896,
+            "translate": 0.09172079235371718
+        }
+    },
+    {
+        "iter": 8,
+        "particle": 1,
+        "fitness": 0.08808828009397918,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 0.001,
+            "hsv_s": 0.7,
+            "scale": 1.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 8,
+        "particle": 2,
+        "fitness": 0.08092237452152398,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 0.001,
+            "hsv_s": 0.7,
+            "scale": 1.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 8,
+        "particle": 3,
+        "fitness": 0.11398975665524125,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.85,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 1.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 8,
+        "particle": 4,
+        "fitness": 0.10277820042636203,
+        "cfg": {
+            "lr0": 0.0001,
+            "momentum": 0.98,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 0.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 8,
+        "particle": 5,
+        "fitness": 0.09146885711824922,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 1.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 8,
+        "particle": 6,
+        "fitness": 0.08092237452152398,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 0.001,
+            "hsv_s": 0.7,
+            "scale": 1.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 8,
+        "particle": 7,
+        "fitness": 0.11292934929234341,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.7,
+            "scale": 0.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 8,
+        "particle": 8,
+        "fitness": 0.15295800207591886,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.85,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 0.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 8,
+        "particle": 9,
+        "fitness": 0.10277820042636203,
+        "cfg": {
+            "lr0": 0.0001,
+            "momentum": 0.98,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 0.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 9,
+        "particle": 0,
+        "fitness": 0.1522670911227229,
+        "cfg": {
+            "lr0": 0.0019525958283333632,
+            "momentum": 0.9675179141406708,
+            "weight_decay": 0.0005442621441272491,
+            "hsv_s": 0.31983799515203604,
+            "scale": 0.8820414102298896,
+            "translate": 0.09172079235371718
+        }
+    },
+    {
+        "iter": 9,
+        "particle": 1,
+        "fitness": 0.08808828009397918,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 0.001,
+            "hsv_s": 0.7,
+            "scale": 1.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 9,
+        "particle": 2,
+        "fitness": 0.08092237452152398,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 0.001,
+            "hsv_s": 0.7,
+            "scale": 1.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 9,
+        "particle": 3,
+        "fitness": 0.11398975665524125,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.85,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 1.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 9,
+        "particle": 4,
+        "fitness": 0.10606380016645045,
+        "cfg": {
+            "lr0": 0.0001,
+            "momentum": 0.98,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.517974159678797,
+            "scale": 0.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 9,
+        "particle": 5,
+        "fitness": 0.11370596064367625,
+        "cfg": {
+            "lr0": 0.0001,
+            "momentum": 0.85,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 1.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 9,
+        "particle": 6,
+        "fitness": 0.11337141569963897,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 0.001,
+            "hsv_s": 0.7,
+            "scale": 0.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 9,
+        "particle": 7,
+        "fitness": 0.10069883425156907,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.98,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.42498120550369745,
+            "scale": 0.0,
+            "translate": 0.2
+        }
+    },
+    {
+        "iter": 9,
+        "particle": 8,
+        "fitness": 0.15295800207591886,
+        "cfg": {
+            "lr0": 0.01,
+            "momentum": 0.85,
+            "weight_decay": 1e-06,
+            "hsv_s": 0.0,
+            "scale": 0.0,
+            "translate": 0.0
+        }
+    },
+    {
+        "iter": 9,
+        "particle": 9,
+        "fitness": 0.1041109457190652,
+        "cfg": {
+            "lr0": 0.0001,
+            "momentum": 0.98,
+            "weight_decay": 0.001,
+            "hsv_s": 0.0,
+            "scale": 0.0,
+            "translate": 0.0
+        }
+    }
+]
